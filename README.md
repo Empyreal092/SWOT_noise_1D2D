@@ -5,14 +5,18 @@
 The impact of two-dimensional filtering on white noise spectra in SWOT along-track observations. Submitted
 
 # Abstract
-The Surface Water and Ocean Topography (SWOT) mission provides two-dimensional observations of sea surface height (SSH) at unprecedented spatial resolution, enabling exploration of ocean variability down to scales of $O(10~\mathrm{ km})$. At these scales, however, interpreting SSH variability is challenging because ocean dynamical signals overlap with measurement noise, and their respective spectral signatures are not yet fully understood.
+The Surface Water and Ocean Topography (SWOT) mission provides two-dimensional observations of sea surface height (SSH) at unprecedented spatial resolution, enabling exploration of ocean variability down to scales of $O(10~\mathrm{ km}).$ At these scales, however, interpreting SSH variability is challenging because ocean dynamical signals overlap with measurement noise, and their respective spectral signatures are not yet fully understood.
 Recent analyses of SWOT 2-km posting observations have shown that along-track spectra are red, with a power-law-like behavior at small scales and spectral slopes around or steeper than $-1$, with their magnitudes and slopes correlated with SWOT measurement noise. 
 Here, we investigate the hypothesis that the red along-track spectra can arise from two-dimensional filtering and aliasing of spatially uncorrelated (white) noise. Using synthetic experiments, we show that the resulting one-dimensional along-track spectra exhibit red, power-law-like behavior at small scales, consistent with observations. 
 The apparent spectral slope depends on the noise level, its cross-track variability, and the background ocean signal. 
 This finding highlights the importance of carefully accounting for measurement noise and processing effects when interpreting SWOT spectra, and suggests that such a noise model should serve as a baseline null hypothesis for small-scale spectral analyses.
 
 # Authors
-* 
+* [Ryan Shìjié Dù](https://www.ryandu.org/) <ryan.du@mines.edu>
+* [Momme Hell](https://mochell.github.io/)
+* [Luc Lenain](https://airsea.ucsd.edu/people/)
+* Fabrice Ardhuin
+* [A. B. Villas Bôas](https://mines-oceanography.github.io/)
 
 # Data
 
